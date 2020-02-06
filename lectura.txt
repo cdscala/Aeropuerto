@@ -1,0 +1,2700 @@
+
+Simulacion N: 2
+
+Liviano
+Tiempo de espera: 3.297912 Tiempo de ociosidad: 8125.04
+Mediano
+Tiempo de espera: 4.0130677 Tiempo de ociosidad: 7844.879
+Pesado
+Tiempo de espera: 6.0955863 Tiempo de ociosidad: 8169.075
+
+Simulacion N: 3
+
+Liviano
+Tiempo de espera: 1.468598 Tiempo de ociosidad: 8080.467
+Mediano
+Tiempo de espera: 0.712574 Tiempo de ociosidad: 8621.697
+Pesado
+Tiempo de espera: 5.726736 Tiempo de ociosidad: 8436.213
+
+Simulacion N: 4
+
+Liviano
+Tiempo de espera: 2.0270188 Tiempo de ociosidad: 7616.045
+Mediano
+Tiempo de espera: 2.3948157 Tiempo de ociosidad: 8237.266
+Pesado
+Tiempo de espera: 7.471033 Tiempo de ociosidad: 8381.8955
+
+Simulacion N: 5
+
+Liviano
+Tiempo de espera: 2.4538317 Tiempo de ociosidad: 7863.6484
+Mediano
+Tiempo de espera: 2.340751 Tiempo de ociosidad: 8340.544
+Pesado
+Tiempo de espera: 7.14808 Tiempo de ociosidad: 6729.743
+
+Simulacion N: 6
+
+Liviano
+Tiempo de espera: 2.942388 Tiempo de ociosidad: 7717.969
+Mediano
+Tiempo de espera: 4.342676 Tiempo de ociosidad: 8049.794
+Pesado
+Tiempo de espera: 5.6307373 Tiempo de ociosidad: 5845.9463
+
+Simulacion N: 7
+
+Liviano
+Tiempo de espera: 2.9644191 Tiempo de ociosidad: 8160.2065
+Mediano
+Tiempo de espera: 2.3210099 Tiempo de ociosidad: 8378.781
+Pesado
+Tiempo de espera: 8.74978 Tiempo de ociosidad: 8055.205
+
+Simulacion N: 8
+
+Liviano
+Tiempo de espera: 1.6003951 Tiempo de ociosidad: 7584.0674
+Mediano
+Tiempo de espera: 0.75052804 Tiempo de ociosidad: 8596.624
+Pesado
+Tiempo de espera: 6.2058444 Tiempo de ociosidad: 7520.415
+
+Simulacion N: 9
+
+Liviano
+Tiempo de espera: 3.0034869 Tiempo de ociosidad: 7458.2764
+Mediano
+Tiempo de espera: 2.724775 Tiempo de ociosidad: 8076.3745
+Pesado
+Tiempo de espera: 8.076463 Tiempo de ociosidad: 7460.472
+
+Simulacion N: 10
+
+Liviano
+Tiempo de espera: 2.8594563 Tiempo de ociosidad: 7866.6943
+Mediano
+Tiempo de espera: 4.124216 Tiempo de ociosidad: 7829.728
+Pesado
+Tiempo de espera: 7.951314 Tiempo de ociosidad: 6937.5527
+
+Simulacion N: 11
+
+Liviano
+Tiempo de espera: 3.0271592 Tiempo de ociosidad: 8088.5107
+Mediano
+Tiempo de espera: 0.823366 Tiempo de ociosidad: 8591.256
+Pesado
+Tiempo de espera: 5.9778748 Tiempo de ociosidad: 8174.096
+
+Simulacion N: 12
+
+Liviano
+Tiempo de espera: 2.7532141 Tiempo de ociosidad: 7672.9883
+Mediano
+Tiempo de espera: 2.2548158 Tiempo de ociosidad: 7658.552
+Pesado
+Tiempo de espera: 7.386473 Tiempo de ociosidad: 7548.207
+
+Simulacion N: 13
+
+Liviano
+Tiempo de espera: 1.7969444 Tiempo de ociosidad: 8293.196
+Mediano
+Tiempo de espera: 2.4449108 Tiempo de ociosidad: 8216.025
+Pesado
+Tiempo de espera: 8.94171 Tiempo de ociosidad: 8206.358
+
+Simulacion N: 14
+
+Liviano
+Tiempo de espera: 2.9891481 Tiempo de ociosidad: 7665.7583
+Mediano
+Tiempo de espera: 2.5099874 Tiempo de ociosidad: 8349.019
+Pesado
+Tiempo de espera: 7.4954996 Tiempo de ociosidad: 7088.357
+
+Simulacion N: 15
+
+Liviano
+Tiempo de espera: 3.3646083 Tiempo de ociosidad: 8363.691
+Mediano
+Tiempo de espera: 2.4491224 Tiempo de ociosidad: 8398.846
+Pesado
+Tiempo de espera: 7.534305 Tiempo de ociosidad: 7980.9194
+
+Simulacion N: 16
+
+Liviano
+Tiempo de espera: 3.43946 Tiempo de ociosidad: 8231.191
+Mediano
+Tiempo de espera: 2.508608 Tiempo de ociosidad: 8457.543
+Pesado
+Tiempo de espera: 6.5984964 Tiempo de ociosidad: 7319.9175
+
+Simulacion N: 17
+
+Liviano
+Tiempo de espera: 2.0055912 Tiempo de ociosidad: 7869.0327
+Mediano
+Tiempo de espera: 2.584811 Tiempo de ociosidad: 8443.912
+Pesado
+Tiempo de espera: 5.2421966 Tiempo de ociosidad: 7613.643
+
+Simulacion N: 18
+
+Liviano
+Tiempo de espera: 2.9282107 Tiempo de ociosidad: 8167.068
+Mediano
+Tiempo de espera: 2.383094 Tiempo de ociosidad: 8367.734
+Pesado
+Tiempo de espera: 8.672892 Tiempo de ociosidad: 8431.684
+
+Simulacion N: 19
+
+Liviano
+Tiempo de espera: 2.71537 Tiempo de ociosidad: 8415.631
+Mediano
+Tiempo de espera: 2.6179519 Tiempo de ociosidad: 8028.2676
+Pesado
+Tiempo de espera: 8.309011 Tiempo de ociosidad: 6799.5874
+
+Simulacion N: 20
+
+Liviano
+Tiempo de espera: 3.2933714 Tiempo de ociosidad: 8457.239
+Mediano
+Tiempo de espera: 2.4489067 Tiempo de ociosidad: 8396.125
+Pesado
+Tiempo de espera: 5.5667186 Tiempo de ociosidad: 7767.137
+
+Simulacion N: 21
+
+Liviano
+Tiempo de espera: 2.0944912 Tiempo de ociosidad: 7818.1177
+Mediano
+Tiempo de espera: 2.4520705 Tiempo de ociosidad: 8104.4663
+Pesado
+Tiempo de espera: 6.336496 Tiempo de ociosidad: 7340.4478
+
+Simulacion N: 22
+
+Liviano
+Tiempo de espera: 1.8069752 Tiempo de ociosidad: 7682.2095
+Mediano
+Tiempo de espera: 2.3836572 Tiempo de ociosidad: 8185.6094
+Pesado
+Tiempo de espera: 5.74114 Tiempo de ociosidad: 7920.7847
+
+Simulacion N: 23
+
+Liviano
+Tiempo de espera: 2.9731104 Tiempo de ociosidad: 8034.4624
+Mediano
+Tiempo de espera: 4.0431333 Tiempo de ociosidad: 7795.762
+Pesado
+Tiempo de espera: 4.9661503 Tiempo de ociosidad: 6848.34
+
+Simulacion N: 24
+
+Liviano
+Tiempo de espera: 2.5991633 Tiempo de ociosidad: 7490.6157
+Mediano
+Tiempo de espera: 2.6013174 Tiempo de ociosidad: 8384.354
+Pesado
+Tiempo de espera: 8.293314 Tiempo de ociosidad: 7531.9697
+
+Simulacion N: 25
+
+Liviano
+Tiempo de espera: 3.2077408 Tiempo de ociosidad: 7744.8667
+Mediano
+Tiempo de espera: 2.6251369 Tiempo de ociosidad: 8207.266
+Pesado
+Tiempo de espera: 7.219513 Tiempo de ociosidad: 6679.1504
+
+Simulacion N: 26
+
+Liviano
+Tiempo de espera: 3.275284 Tiempo de ociosidad: 8428.769
+Mediano
+Tiempo de espera: 2.6697302 Tiempo de ociosidad: 8440.827
+Pesado
+Tiempo de espera: 6.571184 Tiempo de ociosidad: 7712.388
+
+Simulacion N: 27
+
+Liviano
+Tiempo de espera: 3.2791064 Tiempo de ociosidad: 7822.702
+Mediano
+Tiempo de espera: 2.4601407 Tiempo de ociosidad: 8331.936
+Pesado
+Tiempo de espera: 8.094799 Tiempo de ociosidad: 7666.0996
+
+Simulacion N: 28
+
+Liviano
+Tiempo de espera: 3.1516957 Tiempo de ociosidad: 8123.1113
+Mediano
+Tiempo de espera: 2.519706 Tiempo de ociosidad: 7988.5664
+Pesado
+Tiempo de espera: 6.373581 Tiempo de ociosidad: 7445.0635
+
+Simulacion N: 29
+
+Liviano
+Tiempo de espera: 3.0905807 Tiempo de ociosidad: 8080.539
+Mediano
+Tiempo de espera: 0.6614548 Tiempo de ociosidad: 8556.672
+Pesado
+Tiempo de espera: 3.414448 Tiempo de ociosidad: 6387.265
+
+Simulacion N: 30
+
+Liviano
+Tiempo de espera: 3.4078407 Tiempo de ociosidad: 7998.912
+Mediano
+Tiempo de espera: 2.2902532 Tiempo de ociosidad: 8377.977
+Pesado
+Tiempo de espera: 5.441238 Tiempo de ociosidad: 6625.0137
+
+Simulacion N: 31
+
+Liviano
+Tiempo de espera: 3.6878 Tiempo de ociosidad: 8540.87
+Mediano
+Tiempo de espera: 0.74515116 Tiempo de ociosidad: 7996.626
+Pesado
+Tiempo de espera: 7.1118546 Tiempo de ociosidad: 6514.0913
+
+Simulacion N: 32
+
+Liviano
+Tiempo de espera: 3.6900558 Tiempo de ociosidad: 7441.2524
+Mediano
+Tiempo de espera: 4.0404453 Tiempo de ociosidad: 7891.871
+Pesado
+Tiempo de espera: 7.0247545 Tiempo de ociosidad: 6594.0796
+
+Simulacion N: 33
+
+Liviano
+Tiempo de espera: 3.0215037 Tiempo de ociosidad: 8303.777
+Mediano
+Tiempo de espera: 0.552198 Tiempo de ociosidad: 8529.889
+Pesado
+Tiempo de espera: 7.3348303 Tiempo de ociosidad: 7256.9946
+
+Simulacion N: 34
+
+Liviano
+Tiempo de espera: 3.6210313 Tiempo de ociosidad: 7827.3564
+Mediano
+Tiempo de espera: 2.44811 Tiempo de ociosidad: 8210.387
+Pesado
+Tiempo de espera: 7.022273 Tiempo de ociosidad: 6816.5903
+
+Simulacion N: 35
+
+Liviano
+Tiempo de espera: 3.9610932 Tiempo de ociosidad: 8592.283
+Mediano
+Tiempo de espera: 0.78724664 Tiempo de ociosidad: 8599.186
+Pesado
+Tiempo de espera: 5.471885 Tiempo de ociosidad: 6586.9653
+
+Simulacion N: 36
+
+Liviano
+Tiempo de espera: 2.6134315 Tiempo de ociosidad: 7185.286
+Mediano
+Tiempo de espera: 2.3212852 Tiempo de ociosidad: 8377.904
+Pesado
+Tiempo de espera: 7.644005 Tiempo de ociosidad: 7424.283
+
+Simulacion N: 37
+
+Liviano
+Tiempo de espera: 3.549113 Tiempo de ociosidad: 8291.374
+Mediano
+Tiempo de espera: 2.4953725 Tiempo de ociosidad: 8050.333
+Pesado
+Tiempo de espera: 5.9243855 Tiempo de ociosidad: 7739.0415
+
+Simulacion N: 38
+
+Liviano
+Tiempo de espera: 3.590794 Tiempo de ociosidad: 7816.1777
+Mediano
+Tiempo de espera: 2.482712 Tiempo de ociosidad: 8224.322
+Pesado
+Tiempo de espera: 6.66314 Tiempo de ociosidad: 7224.2
+
+Simulacion N: 39
+
+Liviano
+Tiempo de espera: 1.8493938 Tiempo de ociosidad: 8142.0063
+Mediano
+Tiempo de espera: 2.6237106 Tiempo de ociosidad: 8382.747
+Pesado
+Tiempo de espera: 6.8179917 Tiempo de ociosidad: 7539.508
+
+Simulacion N: 40
+
+Liviano
+Tiempo de espera: 2.6981082 Tiempo de ociosidad: 8143.4062
+Mediano
+Tiempo de espera: 4.176042 Tiempo de ociosidad: 8024.8647
+Pesado
+Tiempo de espera: 7.855494 Tiempo de ociosidad: 7845.005
+
+Simulacion N: 41
+
+Liviano
+Tiempo de espera: 2.496783 Tiempo de ociosidad: 7994.006
+Mediano
+Tiempo de espera: 0.49711546 Tiempo de ociosidad: 8579.449
+Pesado
+Tiempo de espera: 7.268496 Tiempo de ociosidad: 6421.723
+
+Simulacion N: 42
+
+Liviano
+Tiempo de espera: 3.2094443 Tiempo de ociosidad: 8298.605
+Mediano
+Tiempo de espera: 0.8467927 Tiempo de ociosidad: 8615.26
+Pesado
+Tiempo de espera: 7.619188 Tiempo de ociosidad: 7696.89
+
+Simulacion N: 43
+
+Liviano
+Tiempo de espera: 3.2204432 Tiempo de ociosidad: 8441.91
+Mediano
+Tiempo de espera: 0.61701846 Tiempo de ociosidad: 8612.35
+Pesado
+Tiempo de espera: 7.5618477 Tiempo de ociosidad: 7960.001
+
+Simulacion N: 44
+
+Liviano
+Tiempo de espera: 1.7720627 Tiempo de ociosidad: 7614.3413
+Mediano
+Tiempo de espera: 0.75118154 Tiempo de ociosidad: 8665.676
+Pesado
+Tiempo de espera: 5.3911037 Tiempo de ociosidad: 5529.837
+
+Simulacion N: 45
+
+Liviano
+Tiempo de espera: 3.6076384 Tiempo de ociosidad: 8381.083
+Mediano
+Tiempo de espera: 2.0840662 Tiempo de ociosidad: 7758.3706
+Pesado
+Tiempo de espera: 7.8713846 Tiempo de ociosidad: 6158.8394
+
+Simulacion N: 46
+
+Liviano
+Tiempo de espera: 2.2806423 Tiempo de ociosidad: 7919.2036
+Mediano
+Tiempo de espera: 4.3182263 Tiempo de ociosidad: 8267.816
+Pesado
+Tiempo de espera: 6.125241 Tiempo de ociosidad: 7744.1016
+
+Simulacion N: 47
+
+Liviano
+Tiempo de espera: 2.7492301 Tiempo de ociosidad: 8672.875
+Mediano
+Tiempo de espera: 0.6168115 Tiempo de ociosidad: 8582.369
+Pesado
+Tiempo de espera: 4.9623404 Tiempo de ociosidad: 6832.0283
+
+Simulacion N: 48
+
+Liviano
+Tiempo de espera: 2.204795 Tiempo de ociosidad: 7893.542
+Mediano
+Tiempo de espera: 2.6510508 Tiempo de ociosidad: 8016.433
+Pesado
+Tiempo de espera: 5.6604733 Tiempo de ociosidad: 7858.8027
+
+Simulacion N: 49
+
+Liviano
+Tiempo de espera: 2.7255988 Tiempo de ociosidad: 8047.019
+Mediano
+Tiempo de espera: 2.3167226 Tiempo de ociosidad: 8288.266
+Pesado
+Tiempo de espera: 6.090636 Tiempo de ociosidad: 8619.8955
+
+Simulacion N: 50
+
+Liviano
+Tiempo de espera: 1.1949338 Tiempo de ociosidad: 6910.33
+Mediano
+Tiempo de espera: 2.5409734 Tiempo de ociosidad: 8232.61
+Pesado
+Tiempo de espera: 7.835218 Tiempo de ociosidad: 5499.029
+
+Simulacion N: 51
+
+Liviano
+Tiempo de espera: 2.7861702 Tiempo de ociosidad: 7641.5684
+Mediano
+Tiempo de espera: 2.5105834 Tiempo de ociosidad: 8454.4
+Pesado
+Tiempo de espera: 6.274905 Tiempo de ociosidad: 8707.682
+
+Simulacion N: 2
+
+Liviano
+Tiempo de espera: 1.8640662 Tiempo de ociosidad: 7675.3374
+Mediano
+Tiempo de espera: 0.7408295 Tiempo de ociosidad: 8621.171
+Pesado
+Tiempo de espera: 7.4496093 Tiempo de ociosidad: 8964.146
+
+Simulacion N: 3
+
+Liviano
+Tiempo de espera: 3.392986 Tiempo de ociosidad: 8664.468
+Mediano
+Tiempo de espera: 2.7008042 Tiempo de ociosidad: 8425.0625
+Pesado
+Tiempo de espera: 5.95895 Tiempo de ociosidad: 7865.142
+
+Simulacion N: 4
+
+Liviano
+Tiempo de espera: 4.294828 Tiempo de ociosidad: 8873.13
+Mediano
+Tiempo de espera: 2.6199439 Tiempo de ociosidad: 8173.075
+Pesado
+Tiempo de espera: 5.906157 Tiempo de ociosidad: 7489.938
+
+Simulacion N: 5
+
+Liviano
+Tiempo de espera: 3.204588 Tiempo de ociosidad: 8108.402
+Mediano
+Tiempo de espera: 2.4130552 Tiempo de ociosidad: 8474.514
+Pesado
+Tiempo de espera: 8.122846 Tiempo de ociosidad: 5619.7104
+
+Simulacion N: 6
+
+Liviano
+Tiempo de espera: 4.608265 Tiempo de ociosidad: 8307.189
+Mediano
+Tiempo de espera: 2.5522814 Tiempo de ociosidad: 8256.047
+Pesado
+Tiempo de espera: 6.673673 Tiempo de ociosidad: 8635.128
+
+Simulacion N: 7
+
+Liviano
+Tiempo de espera: 2.56138 Tiempo de ociosidad: 7437.1943
+Mediano
+Tiempo de espera: 3.9914289 Tiempo de ociosidad: 7925.321
+Pesado
+Tiempo de espera: 6.4422097 Tiempo de ociosidad: 6765.7065
+
+Simulacion N: 8
+
+Liviano
+Tiempo de espera: 2.2532659 Tiempo de ociosidad: 7738.5776
+Mediano
+Tiempo de espera: 4.0207977 Tiempo de ociosidad: 7881.9346
+Pesado
+Tiempo de espera: 5.097278 Tiempo de ociosidad: 6284.1074
+
+Simulacion N: 9
+
+Liviano
+Tiempo de espera: 2.176979 Tiempo de ociosidad: 7666.566
+Mediano
+Tiempo de espera: 2.556638 Tiempo de ociosidad: 8407.334
+Pesado
+Tiempo de espera: 5.013607 Tiempo de ociosidad: 8395.402
+
+Simulacion N: 10
+
+Liviano
+Tiempo de espera: 2.7355824 Tiempo de ociosidad: 8103.8076
+Mediano
+Tiempo de espera: 3.9324706 Tiempo de ociosidad: 7658.985
+Pesado
+Tiempo de espera: 6.95403 Tiempo de ociosidad: 6877.104
+
+Simulacion N: 11
+
+Liviano
+Tiempo de espera: 3.8958616 Tiempo de ociosidad: 8224.844
+Mediano
+Tiempo de espera: 2.3524454 Tiempo de ociosidad: 8361.378
+Pesado
+Tiempo de espera: 7.5112143 Tiempo de ociosidad: 6602.7466
+
+Simulacion N: 12
+
+Liviano
+Tiempo de espera: 2.9373636 Tiempo de ociosidad: 8191.191
+Mediano
+Tiempo de espera: 2.413185 Tiempo de ociosidad: 8388.516
+Pesado
+Tiempo de espera: 5.023575 Tiempo de ociosidad: 5956.739
+
+Simulacion N: 13
+
+Liviano
+Tiempo de espera: 1.9035014 Tiempo de ociosidad: 8390.296
+Mediano
+Tiempo de espera: 2.230714 Tiempo de ociosidad: 8364.433
+Pesado
+Tiempo de espera: 6.2685947 Tiempo de ociosidad: 7593.387
+
+Simulacion N: 14
+
+Liviano
+Tiempo de espera: 3.7513726 Tiempo de ociosidad: 8629.333
+Mediano
+Tiempo de espera: 2.3533988 Tiempo de ociosidad: 8397.107
+Pesado
+Tiempo de espera: 6.134125 Tiempo de ociosidad: 5947.5596
+
+Simulacion N: 15
+
+Liviano
+Tiempo de espera: 3.6249428 Tiempo de ociosidad: 8240.4795
+Mediano
+Tiempo de espera: 2.6112854 Tiempo de ociosidad: 8134.6865
+Pesado
+Tiempo de espera: 8.476023 Tiempo de ociosidad: 7455.605
+
+Simulacion N: 16
+
+Liviano
+Tiempo de espera: 2.840743 Tiempo de ociosidad: 8105.676
+Mediano
+Tiempo de espera: 2.4923909 Tiempo de ociosidad: 8413.087
+Pesado
+Tiempo de espera: 4.510614 Tiempo de ociosidad: 6947.9287
+
+Simulacion N: 17
+
+Liviano
+Tiempo de espera: 3.2173176 Tiempo de ociosidad: 8377.024
+Mediano
+Tiempo de espera: 0.71909547 Tiempo de ociosidad: 8629.843
+Pesado
+Tiempo de espera: 7.3800406 Tiempo de ociosidad: 6346.3
+
+Simulacion N: 18
+
+Liviano
+Tiempo de espera: 2.8753092 Tiempo de ociosidad: 7725.6733
+Mediano
+Tiempo de espera: 2.607988 Tiempo de ociosidad: 8396.627
+Pesado
+Tiempo de espera: 5.3656507 Tiempo de ociosidad: 7187.738
+
+Simulacion N: 19
+
+Liviano
+Tiempo de espera: 3.4631917 Tiempo de ociosidad: 9059.084
+Mediano
+Tiempo de espera: 2.4664404 Tiempo de ociosidad: 8414.869
+Pesado
+Tiempo de espera: 7.1603193 Tiempo de ociosidad: 8106.9307
+
+Simulacion N: 20
+
+Liviano
+Tiempo de espera: 2.5797915 Tiempo de ociosidad: 7893.1616
+Mediano
+Tiempo de espera: 2.6426353 Tiempo de ociosidad: 8195.303
+Pesado
+Tiempo de espera: 6.9374747 Tiempo de ociosidad: 7156.6626
+
+Simulacion N: 21
+
+Liviano
+Tiempo de espera: 2.027933 Tiempo de ociosidad: 8255.846
+Mediano
+Tiempo de espera: 0.71830297 Tiempo de ociosidad: 8616.807
+Pesado
+Tiempo de espera: 5.605115 Tiempo de ociosidad: 6968.1953
+
+Simulacion N: 22
+
+Liviano
+Tiempo de espera: 4.0048366 Tiempo de ociosidad: 8810.471
+Mediano
+Tiempo de espera: 2.4870033 Tiempo de ociosidad: 8028.5757
+Pesado
+Tiempo de espera: 9.101433 Tiempo de ociosidad: 7560.291
+
+Simulacion N: 23
+
+Liviano
+Tiempo de espera: 1.6977221 Tiempo de ociosidad: 7852.594
+Mediano
+Tiempo de espera: 2.4355323 Tiempo de ociosidad: 8451.403
+Pesado
+Tiempo de espera: 5.8968797 Tiempo de ociosidad: 7777.4556
+
+Simulacion N: 24
+
+Liviano
+Tiempo de espera: 2.0461571 Tiempo de ociosidad: 7805.558
+Mediano
+Tiempo de espera: 0.83814394 Tiempo de ociosidad: 8614.355
+Pesado
+Tiempo de espera: 6.233395 Tiempo de ociosidad: 6455.451
+
+Simulacion N: 25
+
+Liviano
+Tiempo de espera: 3.8025587 Tiempo de ociosidad: 8702.41
+Mediano
+Tiempo de espera: 2.3656313 Tiempo de ociosidad: 7955.8213
+Pesado
+Tiempo de espera: 6.641766 Tiempo de ociosidad: 7036.179
+
+Simulacion N: 26
+
+Liviano
+Tiempo de espera: 3.1215503 Tiempo de ociosidad: 7895.1294
+Mediano
+Tiempo de espera: 2.5402684 Tiempo de ociosidad: 8024.3613
+Pesado
+Tiempo de espera: 8.456481 Tiempo de ociosidad: 7529.504
+
+Simulacion N: 27
+
+Liviano
+Tiempo de espera: 3.988206 Tiempo de ociosidad: 8044.8066
+Mediano
+Tiempo de espera: 2.587579 Tiempo de ociosidad: 8180.1504
+Pesado
+Tiempo de espera: 5.941288 Tiempo de ociosidad: 8206.568
+
+Simulacion N: 28
+
+Liviano
+Tiempo de espera: 1.9626869 Tiempo de ociosidad: 7513.5513
+Mediano
+Tiempo de espera: 4.3081284 Tiempo de ociosidad: 7692.985
+Pesado
+Tiempo de espera: 5.802561 Tiempo de ociosidad: 7326.633
+
+Simulacion N: 29
+
+Liviano
+Tiempo de espera: 3.6394408 Tiempo de ociosidad: 9110.668
+Mediano
+Tiempo de espera: 4.006131 Tiempo de ociosidad: 7873.1553
+Pesado
+Tiempo de espera: 5.1106133 Tiempo de ociosidad: 7602.889
+
+Simulacion N: 30
+
+Liviano
+Tiempo de espera: 2.442954 Tiempo de ociosidad: 8090.102
+Mediano
+Tiempo de espera: 2.462405 Tiempo de ociosidad: 8199.418
+Pesado
+Tiempo de espera: 7.6519365 Tiempo de ociosidad: 7603.3716
+
+Simulacion N: 31
+
+Liviano
+Tiempo de espera: 2.2517705 Tiempo de ociosidad: 7632.636
+Mediano
+Tiempo de espera: 2.8361154 Tiempo de ociosidad: 8225.446
+Pesado
+Tiempo de espera: 7.4141984 Tiempo de ociosidad: 7684.9937
+
+Simulacion N: 32
+
+Liviano
+Tiempo de espera: 2.9212615 Tiempo de ociosidad: 8481.781
+Mediano
+Tiempo de espera: 0.7220231 Tiempo de ociosidad: 8641.934
+Pesado
+Tiempo de espera: 6.289229 Tiempo de ociosidad: 5665.9683
+
+Simulacion N: 33
+
+Liviano
+Tiempo de espera: 3.6999106 Tiempo de ociosidad: 7711.54
+Mediano
+Tiempo de espera: 2.3306255 Tiempo de ociosidad: 8371.126
+Pesado
+Tiempo de espera: 7.2389617 Tiempo de ociosidad: 7394.153
+
+Simulacion N: 34
+
+Liviano
+Tiempo de espera: 2.7550879 Tiempo de ociosidad: 8449.539
+Mediano
+Tiempo de espera: 2.4886203 Tiempo de ociosidad: 8417.111
+Pesado
+Tiempo de espera: 6.7018538 Tiempo de ociosidad: 7724.7803
+
+Simulacion N: 35
+
+Liviano
+Tiempo de espera: 3.28686 Tiempo de ociosidad: 8456.515
+Mediano
+Tiempo de espera: 4.22965 Tiempo de ociosidad: 8013.441
+Pesado
+Tiempo de espera: 7.3121104 Tiempo de ociosidad: 7380.383
+
+Simulacion N: 36
+
+Liviano
+Tiempo de espera: 1.6307545 Tiempo de ociosidad: 6920.728
+Mediano
+Tiempo de espera: 2.4063742 Tiempo de ociosidad: 8396.853
+Pesado
+Tiempo de espera: 8.508385 Tiempo de ociosidad: 6437.106
+
+Simulacion N: 37
+
+Liviano
+Tiempo de espera: 2.7801328 Tiempo de ociosidad: 8281.19
+Mediano
+Tiempo de espera: 2.2381542 Tiempo de ociosidad: 8332.302
+Pesado
+Tiempo de espera: 5.161859 Tiempo de ociosidad: 6303.349
+
+Simulacion N: 38
+
+Liviano
+Tiempo de espera: 3.0493474 Tiempo de ociosidad: 8125.85
+Mediano
+Tiempo de espera: 2.638808 Tiempo de ociosidad: 7989.1084
+Pesado
+Tiempo de espera: 6.4802566 Tiempo de ociosidad: 9196.601
+
+Simulacion N: 39
+
+Liviano
+Tiempo de espera: 2.6742165 Tiempo de ociosidad: 8392.229
+Mediano
+Tiempo de espera: 0.8115267 Tiempo de ociosidad: 8642.159
+Pesado
+Tiempo de espera: 6.4277706 Tiempo de ociosidad: 6396.3496
+
+Simulacion N: 40
+
+Liviano
+Tiempo de espera: 3.42805 Tiempo de ociosidad: 8533.678
+Mediano
+Tiempo de espera: 2.4674268 Tiempo de ociosidad: 8456.879
+Pesado
+Tiempo de espera: 6.0969343 Tiempo de ociosidad: 6267.266
+
+Simulacion N: 41
+
+Liviano
+Tiempo de espera: 1.8271881 Tiempo de ociosidad: 7728.054
+Mediano
+Tiempo de espera: 2.590928 Tiempo de ociosidad: 8047.1636
+Pesado
+Tiempo de espera: 9.097166 Tiempo de ociosidad: 7171.654
+
+Simulacion N: 42
+
+Liviano
+Tiempo de espera: 2.998106 Tiempo de ociosidad: 8203.693
+Mediano
+Tiempo de espera: 0.860165 Tiempo de ociosidad: 8606.87
+Pesado
+Tiempo de espera: 6.9976087 Tiempo de ociosidad: 6411.3237
+
+Simulacion N: 43
+
+Liviano
+Tiempo de espera: 2.1355667 Tiempo de ociosidad: 8108.2007
+Mediano
+Tiempo de espera: 0.6897754 Tiempo de ociosidad: 8565.76
+Pesado
+Tiempo de espera: 6.0075846 Tiempo de ociosidad: 8868.466
+
+Simulacion N: 44
+
+Liviano
+Tiempo de espera: 4.262883 Tiempo de ociosidad: 8408.839
+Mediano
+Tiempo de espera: 2.437592 Tiempo de ociosidad: 8444.956
+Pesado
+Tiempo de espera: 6.755588 Tiempo de ociosidad: 8073.3745
+
+Simulacion N: 45
+
+Liviano
+Tiempo de espera: 4.4586563 Tiempo de ociosidad: 8618.703
+Mediano
+Tiempo de espera: 4.2236447 Tiempo de ociosidad: 7102.6445
+Pesado
+Tiempo de espera: 6.528271 Tiempo de ociosidad: 8669.595
+
+Simulacion N: 46
+
+Liviano
+Tiempo de espera: 3.7857487 Tiempo de ociosidad: 8390.519
+Mediano
+Tiempo de espera: 0.7814292 Tiempo de ociosidad: 8538.615
+Pesado
+Tiempo de espera: 5.498949 Tiempo de ociosidad: 7530.543
+
+Simulacion N: 47
+
+Liviano
+Tiempo de espera: 2.353145 Tiempo de ociosidad: 8234.302
+Mediano
+Tiempo de espera: 0.7916507 Tiempo de ociosidad: 8620.957
+Pesado
+Tiempo de espera: 7.42767 Tiempo de ociosidad: 6070.039
+
+Simulacion N: 48
+
+Liviano
+Tiempo de espera: 4.3182764 Tiempo de ociosidad: 8456.03
+Mediano
+Tiempo de espera: 2.4725807 Tiempo de ociosidad: 8212.963
+Pesado
+Tiempo de espera: 6.630025 Tiempo de ociosidad: 6010.211
+
+Simulacion N: 49
+
+Liviano
+Tiempo de espera: 2.5433285 Tiempo de ociosidad: 8595.823
+Mediano
+Tiempo de espera: 2.6308062 Tiempo de ociosidad: 8176.961
+Pesado
+Tiempo de espera: 5.546417 Tiempo de ociosidad: 6052.167
+
+Simulacion N: 50
+
+Liviano
+Tiempo de espera: 2.7425358 Tiempo de ociosidad: 8246.913
+Mediano
+Tiempo de espera: 2.5388072 Tiempo de ociosidad: 8212.373
+Pesado
+Tiempo de espera: 7.664603 Tiempo de ociosidad: 6976.0386
+
+Simulacion N: 51
+
+Liviano
+Tiempo de espera: 2.32318 Tiempo de ociosidad: 8030.786
+Mediano
+Tiempo de espera: 2.602604 Tiempo de ociosidad: 8491.357
+Pesado
+Tiempo de espera: 5.4282346 Tiempo de ociosidad: 7666.3687
+
+Simulacion N: 2
+
+Liviano
+Tiempo de espera: 3.1128619 Tiempo de ociosidad: 8364.052
+Mediano
+Tiempo de espera: 4.068153 Tiempo de ociosidad: 8058.023
+Pesado
+Tiempo de espera: 6.536974 Tiempo de ociosidad: 6185.923
+
+Simulacion N: 3
+
+Liviano
+Tiempo de espera: 3.1792064 Tiempo de ociosidad: 9027.486
+Mediano
+Tiempo de espera: 2.4708428 Tiempo de ociosidad: 8217.682
+Pesado
+Tiempo de espera: 7.201567 Tiempo de ociosidad: 6523.317
+
+Simulacion N: 4
+
+Liviano
+Tiempo de espera: 2.8009675 Tiempo de ociosidad: 8166.615
+Mediano
+Tiempo de espera: 2.3089914 Tiempo de ociosidad: 8374.443
+Pesado
+Tiempo de espera: 5.843265 Tiempo de ociosidad: 7066.961
+
+Simulacion N: 5
+
+Liviano
+Tiempo de espera: 2.7791317 Tiempo de ociosidad: 8146.6367
+Mediano
+Tiempo de espera: 0.5886511 Tiempo de ociosidad: 8589.526
+Pesado
+Tiempo de espera: 6.179661 Tiempo de ociosidad: 7792.677
+
+Simulacion N: 6
+
+Liviano
+Tiempo de espera: 3.10439 Tiempo de ociosidad: 8267.367
+Mediano
+Tiempo de espera: 0.55364686 Tiempo de ociosidad: 8577.723
+Pesado
+Tiempo de espera: 5.9838977 Tiempo de ociosidad: 7746.523
+
+Simulacion N: 7
+
+Liviano
+Tiempo de espera: 2.3958006 Tiempo de ociosidad: 8312.621
+Mediano
+Tiempo de espera: 0.8087673 Tiempo de ociosidad: 8587.475
+Pesado
+Tiempo de espera: 4.9604754 Tiempo de ociosidad: 5940.1147
+
+Simulacion N: 8
+
+Liviano
+Tiempo de espera: 2.8258097 Tiempo de ociosidad: 7776.551
+Mediano
+Tiempo de espera: 0.6595746 Tiempo de ociosidad: 7924.8955
+Pesado
+Tiempo de espera: 9.74097 Tiempo de ociosidad: 7405.773
+
+Simulacion N: 9
+
+Liviano
+Tiempo de espera: 3.8938725 Tiempo de ociosidad: 7333.881
+Mediano
+Tiempo de espera: 2.5419567 Tiempo de ociosidad: 8188.8306
+Pesado
+Tiempo de espera: 8.334371 Tiempo de ociosidad: 7296.337
+
+Simulacion N: 10
+
+Liviano
+Tiempo de espera: 2.3775916 Tiempo de ociosidad: 8344.595
+Mediano
+Tiempo de espera: 4.137982 Tiempo de ociosidad: 7844.784
+Pesado
+Tiempo de espera: 5.340794 Tiempo de ociosidad: 6510.3066
+
+Simulacion N: 11
+
+Liviano
+Tiempo de espera: 2.141724 Tiempo de ociosidad: 8018.586
+Mediano
+Tiempo de espera: 0.6692244 Tiempo de ociosidad: 8628.306
+Pesado
+Tiempo de espera: 6.4981823 Tiempo de ociosidad: 7291.2646
+
+Simulacion N: 12
+
+Liviano
+Tiempo de espera: 3.2340019 Tiempo de ociosidad: 8286.755
+Mediano
+Tiempo de espera: 0.7788565 Tiempo de ociosidad: 8627.792
+Pesado
+Tiempo de espera: 6.11028 Tiempo de ociosidad: 6575.8867
+
+Simulacion N: 13
+
+Liviano
+Tiempo de espera: 2.0993164 Tiempo de ociosidad: 7986.6733
+Mediano
+Tiempo de espera: 2.4994082 Tiempo de ociosidad: 8420.127
+Pesado
+Tiempo de espera: 6.907965 Tiempo de ociosidad: 8562.369
+
+Simulacion N: 14
+
+Liviano
+Tiempo de espera: 3.7298293 Tiempo de ociosidad: 8117.3887
+Mediano
+Tiempo de espera: 2.8201227 Tiempo de ociosidad: 8369.771
+Pesado
+Tiempo de espera: 5.788361 Tiempo de ociosidad: 7701.3657
+
+Simulacion N: 15
+
+Liviano
+Tiempo de espera: 2.6057577 Tiempo de ociosidad: 7658.1235
+Mediano
+Tiempo de espera: 2.5844529 Tiempo de ociosidad: 8023.017
+Pesado
+Tiempo de espera: 8.159843 Tiempo de ociosidad: 7742.5537
+
+Simulacion N: 16
+
+Liviano
+Tiempo de espera: 2.3508477 Tiempo de ociosidad: 8124.1934
+Mediano
+Tiempo de espera: 0.69759315 Tiempo de ociosidad: 8549.008
+Pesado
+Tiempo de espera: 6.995162 Tiempo de ociosidad: 7218.1157
+
+Simulacion N: 17
+
+Liviano
+Tiempo de espera: 2.0250978 Tiempo de ociosidad: 7833.1465
+Mediano
+Tiempo de espera: 2.4908834 Tiempo de ociosidad: 8458.322
+Pesado
+Tiempo de espera: 6.1370344 Tiempo de ociosidad: 8417.903
+
+Simulacion N: 18
+
+Liviano
+Tiempo de espera: 2.3710477 Tiempo de ociosidad: 8042.984
+Mediano
+Tiempo de espera: 2.4140222 Tiempo de ociosidad: 8418.621
+Pesado
+Tiempo de espera: 6.7653646 Tiempo de ociosidad: 7491.3853
+
+Simulacion N: 19
+
+Liviano
+Tiempo de espera: 3.8604274 Tiempo de ociosidad: 8598.272
+Mediano
+Tiempo de espera: 2.5245342 Tiempo de ociosidad: 8268.893
+Pesado
+Tiempo de espera: 6.6381187 Tiempo de ociosidad: 8003.7417
+
+Simulacion N: 20
+
+Liviano
+Tiempo de espera: 2.9708266 Tiempo de ociosidad: 8403.652
+Mediano
+Tiempo de espera: 2.6344106 Tiempo de ociosidad: 8198.096
+Pesado
+Tiempo de espera: 6.554802 Tiempo de ociosidad: 7597.3975
+
+Simulacion N: 21
+
+Liviano
+Tiempo de espera: 3.439839 Tiempo de ociosidad: 8405.501
+Mediano
+Tiempo de espera: 2.5210204 Tiempo de ociosidad: 8276.012
+Pesado
+Tiempo de espera: 5.1263404 Tiempo de ociosidad: 7433.525
+
+Simulacion N: 22
+
+Liviano
+Tiempo de espera: 2.839849 Tiempo de ociosidad: 8072.09
+Mediano
+Tiempo de espera: 0.61919594 Tiempo de ociosidad: 7966.8096
+Pesado
+Tiempo de espera: 7.5601068 Tiempo de ociosidad: 8112.8174
+
+Simulacion N: 23
+
+Liviano
+Tiempo de espera: 3.8164093 Tiempo de ociosidad: 8309.753
+Mediano
+Tiempo de espera: 2.5943918 Tiempo de ociosidad: 8184.9014
+Pesado
+Tiempo de espera: 6.8130107 Tiempo de ociosidad: 6754.3296
+
+Simulacion N: 24
+
+Liviano
+Tiempo de espera: 3.4329965 Tiempo de ociosidad: 8462.035
+Mediano
+Tiempo de espera: 0.6427654 Tiempo de ociosidad: 8612.873
+Pesado
+Tiempo de espera: 6.7394166 Tiempo de ociosidad: 6475.2314
+
+Simulacion N: 25
+
+Liviano
+Tiempo de espera: 3.1216252 Tiempo de ociosidad: 7898.915
+Mediano
+Tiempo de espera: 2.54955 Tiempo de ociosidad: 8159.7637
+Pesado
+Tiempo de espera: 7.198033 Tiempo de ociosidad: 8118.107
+
+Simulacion N: 26
+
+Liviano
+Tiempo de espera: 2.5096703 Tiempo de ociosidad: 8336.574
+Mediano
+Tiempo de espera: 2.3337429 Tiempo de ociosidad: 8338.8125
+Pesado
+Tiempo de espera: 5.9134946 Tiempo de ociosidad: 7339.1475
+
+Simulacion N: 27
+
+Liviano
+Tiempo de espera: 2.8619237 Tiempo de ociosidad: 8075.131
+Mediano
+Tiempo de espera: 2.3566282 Tiempo de ociosidad: 8360.843
+Pesado
+Tiempo de espera: 5.9049106 Tiempo de ociosidad: 8349.404
+
+Simulacion N: 28
+
+Liviano
+Tiempo de espera: 4.048018 Tiempo de ociosidad: 8652.525
+Mediano
+Tiempo de espera: 2.5075855 Tiempo de ociosidad: 8206.856
+Pesado
+Tiempo de espera: 6.871559 Tiempo de ociosidad: 5635.763
+
+Simulacion N: 29
+
+Liviano
+Tiempo de espera: 3.5400164 Tiempo de ociosidad: 8691.762
+Mediano
+Tiempo de espera: 2.5554767 Tiempo de ociosidad: 8230.202
+Pesado
+Tiempo de espera: 7.145158 Tiempo de ociosidad: 7671.088
+
+Simulacion N: 30
+
+Liviano
+Tiempo de espera: 3.6721237 Tiempo de ociosidad: 8212.968
+Mediano
+Tiempo de espera: 2.6648667 Tiempo de ociosidad: 8200.444
+Pesado
+Tiempo de espera: 7.2965403 Tiempo de ociosidad: 8271.463
+
+Simulacion N: 31
+
+Liviano
+Tiempo de espera: 3.1627584 Tiempo de ociosidad: 8583.365
+Mediano
+Tiempo de espera: 2.6257865 Tiempo de ociosidad: 8270.414
+Pesado
+Tiempo de espera: 4.6641154 Tiempo de ociosidad: 6298.007
+
+Simulacion N: 32
+
+Liviano
+Tiempo de espera: 1.7230395 Tiempo de ociosidad: 7535.287
+Mediano
+Tiempo de espera: 2.6643674 Tiempo de ociosidad: 8258.445
+Pesado
+Tiempo de espera: 5.399594 Tiempo de ociosidad: 7280.13
+
+Simulacion N: 33
+
+Liviano
+Tiempo de espera: 1.8909851 Tiempo de ociosidad: 7926.85
+Mediano
+Tiempo de espera: 2.652925 Tiempo de ociosidad: 8181.1123
+Pesado
+Tiempo de espera: 5.598003 Tiempo de ociosidad: 8116.001
+
+Simulacion N: 34
+
+Liviano
+Tiempo de espera: 3.3939269 Tiempo de ociosidad: 8450.667
+Mediano
+Tiempo de espera: 0.5855545 Tiempo de ociosidad: 8534.278
+Pesado
+Tiempo de espera: 6.5425587 Tiempo de ociosidad: 8056.616
+
+Simulacion N: 35
+
+Liviano
+Tiempo de espera: 2.9884803 Tiempo de ociosidad: 8299.493
+Mediano
+Tiempo de espera: 2.4491475 Tiempo de ociosidad: 8405.979
+Pesado
+Tiempo de espera: 8.098033 Tiempo de ociosidad: 7467.1406
+
+Simulacion N: 36
+
+Liviano
+Tiempo de espera: 2.5509124 Tiempo de ociosidad: 8329.398
+Mediano
+Tiempo de espera: 0.68498963 Tiempo de ociosidad: 8635.923
+Pesado
+Tiempo de espera: 7.632516 Tiempo de ociosidad: 6751.007
+
+Simulacion N: 37
+
+Liviano
+Tiempo de espera: 1.8314729 Tiempo de ociosidad: 8131.907
+Mediano
+Tiempo de espera: 2.4372406 Tiempo de ociosidad: 8199.937
+Pesado
+Tiempo de espera: 5.9992337 Tiempo de ociosidad: 7383.5483
+
+Simulacion N: 38
+
+Liviano
+Tiempo de espera: 3.5715973 Tiempo de ociosidad: 8134.875
+Mediano
+Tiempo de espera: 2.295341 Tiempo de ociosidad: 8348.515
+Pesado
+Tiempo de espera: 7.7985706 Tiempo de ociosidad: 8309.957
+
+Simulacion N: 39
+
+Liviano
+Tiempo de espera: 3.2681015 Tiempo de ociosidad: 8111.612
+Mediano
+Tiempo de espera: 2.4619133 Tiempo de ociosidad: 6913.8467
+Pesado
+Tiempo de espera: 6.989767 Tiempo de ociosidad: 6513.6494
+
+Simulacion N: 40
+
+Liviano
+Tiempo de espera: 3.337254 Tiempo de ociosidad: 7931.6035
+Mediano
+Tiempo de espera: 3.984005 Tiempo de ociosidad: 7891.656
+Pesado
+Tiempo de espera: 5.4500556 Tiempo de ociosidad: 7906.1333
+
+Simulacion N: 41
+
+Liviano
+Tiempo de espera: 2.1737883 Tiempo de ociosidad: 7712.869
+Mediano
+Tiempo de espera: 2.5112739 Tiempo de ociosidad: 8425.643
+Pesado
+Tiempo de espera: 7.8016596 Tiempo de ociosidad: 8371.274
+
+Simulacion N: 42
+
+Liviano
+Tiempo de espera: 2.0299845 Tiempo de ociosidad: 8267.81
+Mediano
+Tiempo de espera: 2.5295012 Tiempo de ociosidad: 8033.013
+Pesado
+Tiempo de espera: 4.787689 Tiempo de ociosidad: 6085.8433
+
+Simulacion N: 43
+
+Liviano
+Tiempo de espera: 2.7465594 Tiempo de ociosidad: 7427.1377
+Mediano
+Tiempo de espera: 2.285178 Tiempo de ociosidad: 8384.717
+Pesado
+Tiempo de espera: 7.8698273 Tiempo de ociosidad: 6461.12
+
+Simulacion N: 44
+
+Liviano
+Tiempo de espera: 3.464706 Tiempo de ociosidad: 7889.613
+Mediano
+Tiempo de espera: 4.1635327 Tiempo de ociosidad: 8042.684
+Pesado
+Tiempo de espera: 7.5441747 Tiempo de ociosidad: 8037.739
+
+Simulacion N: 45
+
+Liviano
+Tiempo de espera: 1.4835864 Tiempo de ociosidad: 7616.2163
+Mediano
+Tiempo de espera: 2.524282 Tiempo de ociosidad: 8417.206
+Pesado
+Tiempo de espera: 7.5849576 Tiempo de ociosidad: 8040.669
+
+Simulacion N: 46
+
+Liviano
+Tiempo de espera: 2.1133635 Tiempo de ociosidad: 7229.3726
+Mediano
+Tiempo de espera: 2.5100904 Tiempo de ociosidad: 8428.46
+Pesado
+Tiempo de espera: 5.3005257 Tiempo de ociosidad: 7278.957
+
+Simulacion N: 47
+
+Liviano
+Tiempo de espera: 2.859749 Tiempo de ociosidad: 7834.7065
+Mediano
+Tiempo de espera: 0.73950654 Tiempo de ociosidad: 8577.699
+Pesado
+Tiempo de espera: 6.915597 Tiempo de ociosidad: 7975.985
+
+Simulacion N: 48
+
+Liviano
+Tiempo de espera: 3.5495095 Tiempo de ociosidad: 8271.827
+Mediano
+Tiempo de espera: 0.64293605 Tiempo de ociosidad: 8559.234
+Pesado
+Tiempo de espera: 7.204872 Tiempo de ociosidad: 7677.9443
+
+Simulacion N: 49
+
+Liviano
+Tiempo de espera: 3.607944 Tiempo de ociosidad: 7921.98
+Mediano
+Tiempo de espera: 2.551327 Tiempo de ociosidad: 8219.725
+Pesado
+Tiempo de espera: 6.388042 Tiempo de ociosidad: 7795.0527
+
+Simulacion N: 50
+
+Liviano
+Tiempo de espera: 1.8443289 Tiempo de ociosidad: 7800.1426
+Mediano
+Tiempo de espera: 2.4065259 Tiempo de ociosidad: 8446.859
+Pesado
+Tiempo de espera: 5.8816934 Tiempo de ociosidad: 6900.204
+
+Simulacion N: 51
+
+Liviano
+Tiempo de espera: 2.846132 Tiempo de ociosidad: 7422.636
+Mediano
+Tiempo de espera: 4.2587914 Tiempo de ociosidad: 8089.9634
+Pesado
+Tiempo de espera: 8.0190735 Tiempo de ociosidad: 7581.7065
+
+Simulacion N: 2
+
+Liviano
+Tiempo de espera: 1.8241503 Tiempo de ociosidad: 8190.5283
+Mediano
+Tiempo de espera: 2.5528574 Tiempo de ociosidad: 8212.867
+Pesado
+Tiempo de espera: 5.3427835 Tiempo de ociosidad: 7342.6455
+
+Simulacion N: 3
+
+Liviano
+Tiempo de espera: 1.9424825 Tiempo de ociosidad: 7642.558
+Mediano
+Tiempo de espera: 0.6021061 Tiempo de ociosidad: 8583.35
+Pesado
+Tiempo de espera: 6.504656 Tiempo de ociosidad: 8341.014
+
+Simulacion N: 4
+
+Liviano
+Tiempo de espera: 3.3314178 Tiempo de ociosidad: 8210.417
+Mediano
+Tiempo de espera: 2.4161968 Tiempo de ociosidad: 8411.54
+Pesado
+Tiempo de espera: 7.65342 Tiempo de ociosidad: 7449.3047
+
+Simulacion N: 5
+
+Liviano
+Tiempo de espera: 2.407042 Tiempo de ociosidad: 7741.4663
+Mediano
+Tiempo de espera: 2.5027196 Tiempo de ociosidad: 8229.666
+Pesado
+Tiempo de espera: 7.457603 Tiempo de ociosidad: 7558.2485
+
+Simulacion N: 6
+
+Liviano
+Tiempo de espera: 2.8914664 Tiempo de ociosidad: 7846.4526
+Mediano
+Tiempo de espera: 0.61096174 Tiempo de ociosidad: 8554.446
+Pesado
+Tiempo de espera: 7.1455455 Tiempo de ociosidad: 6972.0093
+
+Simulacion N: 7
+
+Liviano
+Tiempo de espera: 3.2087672 Tiempo de ociosidad: 8205.477
+Mediano
+Tiempo de espera: 2.3257587 Tiempo de ociosidad: 8041.5244
+Pesado
+Tiempo de espera: 6.1564784 Tiempo de ociosidad: 7939.6167
+
+Simulacion N: 8
+
+Liviano
+Tiempo de espera: 3.7439232 Tiempo de ociosidad: 8271.916
+Mediano
+Tiempo de espera: 4.1365566 Tiempo de ociosidad: 7761.4526
+Pesado
+Tiempo de espera: 7.424044 Tiempo de ociosidad: 7820.0303
+
+Simulacion N: 9
+
+Liviano
+Tiempo de espera: 4.4240313 Tiempo de ociosidad: 8296.454
+Mediano
+Tiempo de espera: 2.50499 Tiempo de ociosidad: 8174.2285
+Pesado
+Tiempo de espera: 6.329895 Tiempo de ociosidad: 7927.5425
+
+Simulacion N: 10
+
+Liviano
+Tiempo de espera: 3.3882523 Tiempo de ociosidad: 8426.067
+Mediano
+Tiempo de espera: 2.666185 Tiempo de ociosidad: 8210.012
+Pesado
+Tiempo de espera: 7.6966577 Tiempo de ociosidad: 8143.82
+
+Simulacion N: 11
+
+Liviano
+Tiempo de espera: 2.475015 Tiempo de ociosidad: 8377.184
+Mediano
+Tiempo de espera: 2.4065564 Tiempo de ociosidad: 8152.6343
+Pesado
+Tiempo de espera: 6.054401 Tiempo de ociosidad: 6365.4414
+
+Simulacion N: 12
+
+Liviano
+Tiempo de espera: 2.7559056 Tiempo de ociosidad: 7911.0166
+Mediano
+Tiempo de espera: 0.71673506 Tiempo de ociosidad: 8577.374
+Pesado
+Tiempo de espera: 6.7128577 Tiempo de ociosidad: 7177.0596
+
+Simulacion N: 13
+
+Liviano
+Tiempo de espera: 2.7628016 Tiempo de ociosidad: 7781.129
+Mediano
+Tiempo de espera: 6.1451435 Tiempo de ociosidad: 7654.9756
+Pesado
+Tiempo de espera: 6.604811 Tiempo de ociosidad: 5916.363
+
+Simulacion N: 14
+
+Liviano
+Tiempo de espera: 3.8993876 Tiempo de ociosidad: 7947.9746
+Mediano
+Tiempo de espera: 2.3424065 Tiempo de ociosidad: 8369.141
+Pesado
+Tiempo de espera: 5.7975016 Tiempo de ociosidad: 6884.1675
+
+Simulacion N: 15
+
+Liviano
+Tiempo de espera: 3.4629464 Tiempo de ociosidad: 8352.218
+Mediano
+Tiempo de espera: 2.6329648 Tiempo de ociosidad: 8067.378
+Pesado
+Tiempo de espera: 7.828767 Tiempo de ociosidad: 7036.693
+
+Simulacion N: 16
+
+Liviano
+Tiempo de espera: 3.292192 Tiempo de ociosidad: 8281.475
+Mediano
+Tiempo de espera: 4.2080903 Tiempo de ociosidad: 8045.282
+Pesado
+Tiempo de espera: 6.2016816 Tiempo de ociosidad: 7795.5337
+
+Simulacion N: 17
+
+Liviano
+Tiempo de espera: 1.2126268 Tiempo de ociosidad: 7732.1484
+Mediano
+Tiempo de espera: 2.4442546 Tiempo de ociosidad: 8435.169
+Pesado
+Tiempo de espera: 6.531555 Tiempo de ociosidad: 7201.6123
+
+Simulacion N: 18
+
+Liviano
+Tiempo de espera: 2.5233343 Tiempo de ociosidad: 7588.076
+Mediano
+Tiempo de espera: 2.4185765 Tiempo de ociosidad: 8420.847
+Pesado
+Tiempo de espera: 8.053079 Tiempo de ociosidad: 7221.7935
+
+Simulacion N: 19
+
+Liviano
+Tiempo de espera: 3.567406 Tiempo de ociosidad: 8015.0063
+Mediano
+Tiempo de espera: 2.5257902 Tiempo de ociosidad: 8445.106
+Pesado
+Tiempo de espera: 6.068197 Tiempo de ociosidad: 8610.146
+
+Simulacion N: 20
+
+Liviano
+Tiempo de espera: 4.4210634 Tiempo de ociosidad: 9031.16
+Mediano
+Tiempo de espera: 2.3768532 Tiempo de ociosidad: 8403.356
+Pesado
+Tiempo de espera: 8.38169 Tiempo de ociosidad: 7550.698
+
+Simulacion N: 21
+
+Liviano
+Tiempo de espera: 2.87242 Tiempo de ociosidad: 8198.204
+Mediano
+Tiempo de espera: 6.2946515 Tiempo de ociosidad: 7768.2397
+Pesado
+Tiempo de espera: 9.319951 Tiempo de ociosidad: 6401.107
+
+Simulacion N: 22
+
+Liviano
+Tiempo de espera: 3.284024 Tiempo de ociosidad: 7900.317
+Mediano
+Tiempo de espera: 2.4117486 Tiempo de ociosidad: 8433.321
+Pesado
+Tiempo de espera: 7.569297 Tiempo de ociosidad: 5887.124
+
+Simulacion N: 23
+
+Liviano
+Tiempo de espera: 3.2538104 Tiempo de ociosidad: 7730.8047
+Mediano
+Tiempo de espera: 3.9791996 Tiempo de ociosidad: 7806.1743
+Pesado
+Tiempo de espera: 5.524047 Tiempo de ociosidad: 6085.5195
+
+Simulacion N: 24
+
+Liviano
+Tiempo de espera: 2.9052799 Tiempo de ociosidad: 8043.919
+Mediano
+Tiempo de espera: 4.2235293 Tiempo de ociosidad: 7665.1934
+Pesado
+Tiempo de espera: 6.304097 Tiempo de ociosidad: 8312.115
+
+Simulacion N: 25
+
+Liviano
+Tiempo de espera: 3.0642707 Tiempo de ociosidad: 7772.418
+Mediano
+Tiempo de espera: 4.086166 Tiempo de ociosidad: 7802.4136
+Pesado
+Tiempo de espera: 6.0395064 Tiempo de ociosidad: 7977.835
+
+Simulacion N: 26
+
+Liviano
+Tiempo de espera: 2.9443722 Tiempo de ociosidad: 8382.769
+Mediano
+Tiempo de espera: 4.016792 Tiempo de ociosidad: 8002.797
+Pesado
+Tiempo de espera: 6.9264975 Tiempo de ociosidad: 7854.763
+
+Simulacion N: 27
+
+Liviano
+Tiempo de espera: 2.49204 Tiempo de ociosidad: 8269.21
+Mediano
+Tiempo de espera: 2.6319997 Tiempo de ociosidad: 8222.753
+Pesado
+Tiempo de espera: 7.1957827 Tiempo de ociosidad: 6544.4214
+
+Simulacion N: 28
+
+Liviano
+Tiempo de espera: 2.4684606 Tiempo de ociosidad: 7958.6064
+Mediano
+Tiempo de espera: 2.5445251 Tiempo de ociosidad: 8363.252
+Pesado
+Tiempo de espera: 7.6578608 Tiempo de ociosidad: 7827.781
+
+Simulacion N: 29
+
+Liviano
+Tiempo de espera: 2.2440226 Tiempo de ociosidad: 8141.5635
+Mediano
+Tiempo de espera: 2.6284454 Tiempo de ociosidad: 8186.886
+Pesado
+Tiempo de espera: 4.922347 Tiempo de ociosidad: 6860.364
+
+Simulacion N: 30
+
+Liviano
+Tiempo de espera: 3.0724714 Tiempo de ociosidad: 8728.034
+Mediano
+Tiempo de espera: 0.78308713 Tiempo de ociosidad: 8590.435
+Pesado
+Tiempo de espera: 5.6619587 Tiempo de ociosidad: 6615.002
+
+Simulacion N: 31
+
+Liviano
+Tiempo de espera: 2.918822 Tiempo de ociosidad: 8261.573
+Mediano
+Tiempo de espera: 2.4283047 Tiempo de ociosidad: 8401.496
+Pesado
+Tiempo de espera: 5.151726 Tiempo de ociosidad: 7047.3286
+
+Simulacion N: 32
+
+Liviano
+Tiempo de espera: 3.9555085 Tiempo de ociosidad: 8560.454
+Mediano
+Tiempo de espera: 2.4556708 Tiempo de ociosidad: 8237.771
+Pesado
+Tiempo de espera: 8.112161 Tiempo de ociosidad: 7165.6787
+
+Simulacion N: 33
+
+Liviano
+Tiempo de espera: 2.803541 Tiempo de ociosidad: 8081.824
+Mediano
+Tiempo de espera: 2.6081474 Tiempo de ociosidad: 8438.653
+Pesado
+Tiempo de espera: 7.18737 Tiempo de ociosidad: 7545.667
+
+Simulacion N: 34
+
+Liviano
+Tiempo de espera: 1.496233 Tiempo de ociosidad: 7923.104
+Mediano
+Tiempo de espera: 2.4888897 Tiempo de ociosidad: 8406.131
+Pesado
+Tiempo de espera: 7.6014156 Tiempo de ociosidad: 8247.656
+
+Simulacion N: 35
+
+Liviano
+Tiempo de espera: 3.2419548 Tiempo de ociosidad: 8233.46
+Mediano
+Tiempo de espera: 2.351027 Tiempo de ociosidad: 8347.699
+Pesado
+Tiempo de espera: 6.6765137 Tiempo de ociosidad: 6572.5903
+
+Simulacion N: 36
+
+Liviano
+Tiempo de espera: 1.516038 Tiempo de ociosidad: 7688.497
+Mediano
+Tiempo de espera: 2.4967842 Tiempo de ociosidad: 8188.2876
+Pesado
+Tiempo de espera: 7.8379965 Tiempo de ociosidad: 7224.396
+
+Simulacion N: 37
+
+Liviano
+Tiempo de espera: 3.4621851 Tiempo de ociosidad: 8148.9097
+Mediano
+Tiempo de espera: 0.63569736 Tiempo de ociosidad: 8009.5107
+Pesado
+Tiempo de espera: 6.328318 Tiempo de ociosidad: 8018.235
+
+Simulacion N: 38
+
+Liviano
+Tiempo de espera: 2.3759234 Tiempo de ociosidad: 7830.8804
+Mediano
+Tiempo de espera: 0.7708805 Tiempo de ociosidad: 8571.439
+Pesado
+Tiempo de espera: 5.460358 Tiempo de ociosidad: 6074.8364
+
+Simulacion N: 39
+
+Liviano
+Tiempo de espera: 3.0127025 Tiempo de ociosidad: 8477.978
+Mediano
+Tiempo de espera: 0.6489392 Tiempo de ociosidad: 8599.56
+Pesado
+Tiempo de espera: 6.968791 Tiempo de ociosidad: 8483.247
+
+Simulacion N: 40
+
+Liviano
+Tiempo de espera: 2.3706684 Tiempo de ociosidad: 8189.2036
+Mediano
+Tiempo de espera: 2.353694 Tiempo de ociosidad: 8414.663
+Pesado
+Tiempo de espera: 6.878054 Tiempo de ociosidad: 7401.5503
+
+Simulacion N: 41
+
+Liviano
+Tiempo de espera: 2.0521104 Tiempo de ociosidad: 8073.715
+Mediano
+Tiempo de espera: 2.2892213 Tiempo de ociosidad: 8397.852
+Pesado
+Tiempo de espera: 8.219326 Tiempo de ociosidad: 6776.071
+
+Simulacion N: 42
+
+Liviano
+Tiempo de espera: 3.235844 Tiempo de ociosidad: 7690.0806
+Mediano
+Tiempo de espera: 2.3598652 Tiempo de ociosidad: 8358.437
+Pesado
+Tiempo de espera: 7.8117313 Tiempo de ociosidad: 6696.7383
+
+Simulacion N: 43
+
+Liviano
+Tiempo de espera: 2.656035 Tiempo de ociosidad: 7872.3936
+Mediano
+Tiempo de espera: 2.392366 Tiempo de ociosidad: 8192.9375
+Pesado
+Tiempo de espera: 6.4601564 Tiempo de ociosidad: 7906.882
+
+Simulacion N: 44
+
+Liviano
+Tiempo de espera: 2.0372322 Tiempo de ociosidad: 7593.5435
+Mediano
+Tiempo de espera: 2.5080326 Tiempo de ociosidad: 8006.5244
+Pesado
+Tiempo de espera: 8.377122 Tiempo de ociosidad: 5586.1743
+
+Simulacion N: 45
+
+Liviano
+Tiempo de espera: 3.7017896 Tiempo de ociosidad: 8772.868
+Mediano
+Tiempo de espera: 2.4797363 Tiempo de ociosidad: 8174.4146
+Pesado
+Tiempo de espera: 5.273725 Tiempo de ociosidad: 7640.5522
+
+Simulacion N: 46
+
+Liviano
+Tiempo de espera: 3.4000292 Tiempo de ociosidad: 7984.948
+Mediano
+Tiempo de espera: 2.535079 Tiempo de ociosidad: 8012.6616
+Pesado
+Tiempo de espera: 5.6895027 Tiempo de ociosidad: 8119.595
+
+Simulacion N: 47
+
+Liviano
+Tiempo de espera: 2.900246 Tiempo de ociosidad: 8613.358
+Mediano
+Tiempo de espera: 2.5827045 Tiempo de ociosidad: 8006.0293
+Pesado
+Tiempo de espera: 8.377962 Tiempo de ociosidad: 6493.0835
+
+Simulacion N: 48
+
+Liviano
+Tiempo de espera: 1.9887263 Tiempo de ociosidad: 7779.462
+Mediano
+Tiempo de espera: 2.4889789 Tiempo de ociosidad: 8225.235
+Pesado
+Tiempo de espera: 5.2540655 Tiempo de ociosidad: 5663.554
+
+Simulacion N: 49
+
+Liviano
+Tiempo de espera: 3.09308 Tiempo de ociosidad: 8613.294
+Mediano
+Tiempo de espera: 2.6544883 Tiempo de ociosidad: 8185.3315
+Pesado
+Tiempo de espera: 6.838047 Tiempo de ociosidad: 7520.8345
+
+Simulacion N: 50
+
+Liviano
+Tiempo de espera: 4.231302 Tiempo de ociosidad: 8399.002
+Mediano
+Tiempo de espera: 4.136897 Tiempo de ociosidad: 7840.158
+Pesado
+Tiempo de espera: 6.286756 Tiempo de ociosidad: 6583.706
+
+Simulacion N: 51
+
+Liviano
+Tiempo de espera: 2.1603115 Tiempo de ociosidad: 7476.138
+Mediano
+Tiempo de espera: 4.0135884 Tiempo de ociosidad: 8068.463
+Pesado
+Tiempo de espera: 6.620862 Tiempo de ociosidad: 5518.544
+
+Simulacion N: 2
+
+Liviano
+Tiempo de espera: 3.5762568 Tiempo de ociosidad: 8202.138
+Mediano
+Tiempo de espera: 2.3836098 Tiempo de ociosidad: 8098.503
+Pesado
+Tiempo de espera: 6.735939 Tiempo de ociosidad: 7250.532
+
+Simulacion N: 3
+
+Liviano
+Tiempo de espera: 2.571057 Tiempo de ociosidad: 7239.533
+Mediano
+Tiempo de espera: 2.649589 Tiempo de ociosidad: 8217.836
+Pesado
+Tiempo de espera: 6.349991 Tiempo de ociosidad: 7695.522
+
+Simulacion N: 4
+
+Liviano
+Tiempo de espera: 2.619394 Tiempo de ociosidad: 8401.389
+Mediano
+Tiempo de espera: 2.3621671 Tiempo de ociosidad: 8428.006
+Pesado
+Tiempo de espera: 8.273361 Tiempo de ociosidad: 7188.5044
+
+Simulacion N: 5
+
+Liviano
+Tiempo de espera: 3.8972275 Tiempo de ociosidad: 8026.7617
+Mediano
+Tiempo de espera: 0.7042108 Tiempo de ociosidad: 8564.789
+Pesado
+Tiempo de espera: 6.7784195 Tiempo de ociosidad: 6725.111
+
+Simulacion N: 6
+
+Liviano
+Tiempo de espera: 2.8112178 Tiempo de ociosidad: 8377.963
+Mediano
+Tiempo de espera: 0.6583523 Tiempo de ociosidad: 8587.627
+Pesado
+Tiempo de espera: 7.2175875 Tiempo de ociosidad: 6816.051
+
+Simulacion N: 7
+
+Liviano
+Tiempo de espera: 2.0434473 Tiempo de ociosidad: 7801.458
+Mediano
+Tiempo de espera: 2.5465398 Tiempo de ociosidad: 8221.512
+Pesado
+Tiempo de espera: 6.6771536 Tiempo de ociosidad: 6300.245
+
+Simulacion N: 8
+
+Liviano
+Tiempo de espera: 2.0119896 Tiempo de ociosidad: 8229.465
+Mediano
+Tiempo de espera: 2.7101176 Tiempo de ociosidad: 8232.405
+Pesado
+Tiempo de espera: 6.83769 Tiempo de ociosidad: 6708.6016
+
+Simulacion N: 9
+
+Liviano
+Tiempo de espera: 1.600774 Tiempo de ociosidad: 7151.6665
+Mediano
+Tiempo de espera: 2.5798166 Tiempo de ociosidad: 8342.248
+Pesado
+Tiempo de espera: 6.485553 Tiempo de ociosidad: 8346.326
+
+Simulacion N: 10
+
+Liviano
+Tiempo de espera: 2.9570496 Tiempo de ociosidad: 8199.168
+Mediano
+Tiempo de espera: 2.5643187 Tiempo de ociosidad: 8461.657
+Pesado
+Tiempo de espera: 6.288512 Tiempo de ociosidad: 7654.934
+
+Simulacion N: 11
+
+Liviano
+Tiempo de espera: 2.7742116 Tiempo de ociosidad: 8370.87
+Mediano
+Tiempo de espera: 2.573296 Tiempo de ociosidad: 8430.554
+Pesado
+Tiempo de espera: 6.385273 Tiempo de ociosidad: 6196.42
+
+Simulacion N: 12
+
+Liviano
+Tiempo de espera: 2.6279185 Tiempo de ociosidad: 8418.34
+Mediano
+Tiempo de espera: 2.4688165 Tiempo de ociosidad: 8415.918
+Pesado
+Tiempo de espera: 6.275361 Tiempo de ociosidad: 6567.672
+
+Simulacion N: 13
+
+Liviano
+Tiempo de espera: 3.1720736 Tiempo de ociosidad: 8861.037
+Mediano
+Tiempo de espera: 2.5890903 Tiempo de ociosidad: 8405.047
+Pesado
+Tiempo de espera: 9.1306 Tiempo de ociosidad: 7673.4385
+
+Simulacion N: 14
+
+Liviano
+Tiempo de espera: 2.0663135 Tiempo de ociosidad: 7922.313
+Mediano
+Tiempo de espera: 2.6157336 Tiempo de ociosidad: 7988.363
+Pesado
+Tiempo de espera: 6.8379407 Tiempo de ociosidad: 7225.192
+
+Simulacion N: 15
+
+Liviano
+Tiempo de espera: 2.278681 Tiempo de ociosidad: 7887.4116
+Mediano
+Tiempo de espera: 0.6690486 Tiempo de ociosidad: 8603.642
+Pesado
+Tiempo de espera: 7.4959707 Tiempo de ociosidad: 6768.7295
+
+Simulacion N: 16
+
+Liviano
+Tiempo de espera: 2.5970936 Tiempo de ociosidad: 8464.194
+Mediano
+Tiempo de espera: 2.40988 Tiempo de ociosidad: 8410.174
+Pesado
+Tiempo de espera: 7.098539 Tiempo de ociosidad: 7083.0703
+
+Simulacion N: 17
+
+Liviano
+Tiempo de espera: 4.1337724 Tiempo de ociosidad: 8142.8486
+Mediano
+Tiempo de espera: 2.4968262 Tiempo de ociosidad: 8221.246
+Pesado
+Tiempo de espera: 4.8601108 Tiempo de ociosidad: 7701.399
+
+Simulacion N: 18
+
+Liviano
+Tiempo de espera: 2.5785441 Tiempo de ociosidad: 7729.485
+Mediano
+Tiempo de espera: 2.607473 Tiempo de ociosidad: 8255.307
+Pesado
+Tiempo de espera: 6.625759 Tiempo de ociosidad: 6975.253
+
+Simulacion N: 19
+
+Liviano
+Tiempo de espera: 2.142102 Tiempo de ociosidad: 7708.113
+Mediano
+Tiempo de espera: 2.4818335 Tiempo de ociosidad: 8416.941
+Pesado
+Tiempo de espera: 6.2320065 Tiempo de ociosidad: 7462.864
+
+Simulacion N: 20
+
+Liviano
+Tiempo de espera: 2.9389827 Tiempo de ociosidad: 7860.707
+Mediano
+Tiempo de espera: 2.6689043 Tiempo de ociosidad: 8247.693
+Pesado
+Tiempo de espera: 6.766365 Tiempo de ociosidad: 7981.1426
+
+Simulacion N: 21
+
+Liviano
+Tiempo de espera: 2.0299747 Tiempo de ociosidad: 7912.3896
+Mediano
+Tiempo de espera: 2.7818155 Tiempo de ociosidad: 8213.464
+Pesado
+Tiempo de espera: 5.8331857 Tiempo de ociosidad: 8369.374
+
+Simulacion N: 22
+
+Liviano
+Tiempo de espera: 3.098418 Tiempo de ociosidad: 7874.85
+Mediano
+Tiempo de espera: 0.6070939 Tiempo de ociosidad: 8622.27
+Pesado
+Tiempo de espera: 8.381113 Tiempo de ociosidad: 6403.4517
+
+Simulacion N: 23
+
+Liviano
+Tiempo de espera: 2.8508406 Tiempo de ociosidad: 8011.335
+Mediano
+Tiempo de espera: 2.3032942 Tiempo de ociosidad: 8384.477
+Pesado
+Tiempo de espera: 7.6896477 Tiempo de ociosidad: 6618.6675
+
+Simulacion N: 24
+
+Liviano
+Tiempo de espera: 3.3425102 Tiempo de ociosidad: 7930.7593
+Mediano
+Tiempo de espera: 0.67996347 Tiempo de ociosidad: 8603.703
+Pesado
+Tiempo de espera: 7.257413 Tiempo de ociosidad: 7148.046
+
+Simulacion N: 25
+
+Liviano
+Tiempo de espera: 1.8845222 Tiempo de ociosidad: 7763.3794
+Mediano
+Tiempo de espera: 2.5532775 Tiempo de ociosidad: 8249.567
+Pesado
+Tiempo de espera: 6.3873234 Tiempo de ociosidad: 7289.976
+
+Simulacion N: 26
+
+Liviano
+Tiempo de espera: 3.1034486 Tiempo de ociosidad: 8035.314
+Mediano
+Tiempo de espera: 2.513383 Tiempo de ociosidad: 8194.044
+Pesado
+Tiempo de espera: 7.123165 Tiempo de ociosidad: 6868.331
+
+Simulacion N: 27
+
+Liviano
+Tiempo de espera: 3.0433068 Tiempo de ociosidad: 8090.165
+Mediano
+Tiempo de espera: 2.541756 Tiempo de ociosidad: 8484.116
+Pesado
+Tiempo de espera: 5.2695184 Tiempo de ociosidad: 5749.7544
+
+Simulacion N: 28
+
+Liviano
+Tiempo de espera: 3.3915405 Tiempo de ociosidad: 8672.259
+Mediano
+Tiempo de espera: 3.95768 Tiempo de ociosidad: 7862.879
+Pesado
+Tiempo de espera: 6.501431 Tiempo de ociosidad: 7402.963
+
+Simulacion N: 29
+
+Liviano
+Tiempo de espera: 1.9518175 Tiempo de ociosidad: 7422.781
+Mediano
+Tiempo de espera: 0.61766756 Tiempo de ociosidad: 8598.376
+Pesado
+Tiempo de espera: 6.6511884 Tiempo de ociosidad: 7801.8833
+
+Simulacion N: 30
+
+Liviano
+Tiempo de espera: 3.0019112 Tiempo de ociosidad: 7651.172
+Mediano
+Tiempo de espera: 2.5372427 Tiempo de ociosidad: 8249.949
+Pesado
+Tiempo de espera: 5.352473 Tiempo de ociosidad: 7086.767
+
+Simulacion N: 31
+
+Liviano
+Tiempo de espera: 4.091048 Tiempo de ociosidad: 8567.198
+Mediano
+Tiempo de espera: 2.4730237 Tiempo de ociosidad: 8420.967
+Pesado
+Tiempo de espera: 7.013663 Tiempo de ociosidad: 7817.7607
+
+Simulacion N: 32
+
+Liviano
+Tiempo de espera: 4.071738 Tiempo de ociosidad: 7996.797
+Mediano
+Tiempo de espera: 2.520744 Tiempo de ociosidad: 8364.07
+Pesado
+Tiempo de espera: 5.7292805 Tiempo de ociosidad: 7767.806
+
+Simulacion N: 33
+
+Liviano
+Tiempo de espera: 2.3177183 Tiempo de ociosidad: 8132.254
+Mediano
+Tiempo de espera: 0.66306484 Tiempo de ociosidad: 8575.291
+Pesado
+Tiempo de espera: 6.295653 Tiempo de ociosidad: 7312.556
+
+Simulacion N: 34
+
+Liviano
+Tiempo de espera: 3.4361203 Tiempo de ociosidad: 7367.845
+Mediano
+Tiempo de espera: 2.4267776 Tiempo de ociosidad: 8186.9004
+Pesado
+Tiempo de espera: 6.989253 Tiempo de ociosidad: 6110.4995
+
+Simulacion N: 35
+
+Liviano
+Tiempo de espera: 2.9985473 Tiempo de ociosidad: 7864.618
+Mediano
+Tiempo de espera: 4.081061 Tiempo de ociosidad: 7846.8296
+Pesado
+Tiempo de espera: 6.8019724 Tiempo de ociosidad: 8526.389
+
+Simulacion N: 36
+
+Liviano
+Tiempo de espera: 2.641938 Tiempo de ociosidad: 7992.4883
+Mediano
+Tiempo de espera: 2.5545912 Tiempo de ociosidad: 8184.3965
+Pesado
+Tiempo de espera: 8.3856735 Tiempo de ociosidad: 7464.489
+
+Simulacion N: 37
+
+Liviano
+Tiempo de espera: 2.637185 Tiempo de ociosidad: 8172.927
+Mediano
+Tiempo de espera: 2.4710355 Tiempo de ociosidad: 8443.309
+Pesado
+Tiempo de espera: 7.0579376 Tiempo de ociosidad: 6866.804
+
+Simulacion N: 38
+
+Liviano
+Tiempo de espera: 2.4466434 Tiempo de ociosidad: 8377.429
+Mediano
+Tiempo de espera: 4.063129 Tiempo de ociosidad: 8002.0464
+Pesado
+Tiempo de espera: 7.6688347 Tiempo de ociosidad: 6549.0996
+
+Simulacion N: 39
+
+Liviano
+Tiempo de espera: 2.4733632 Tiempo de ociosidad: 8105.8433
+Mediano
+Tiempo de espera: 2.4818141 Tiempo de ociosidad: 8217.049
+Pesado
+Tiempo de espera: 8.607783 Tiempo de ociosidad: 6554.081
+
+Simulacion N: 40
+
+Liviano
+Tiempo de espera: 1.9329782 Tiempo de ociosidad: 7966.3027
+Mediano
+Tiempo de espera: 2.5943713 Tiempo de ociosidad: 8410.959
+Pesado
+Tiempo de espera: 7.6786895 Tiempo de ociosidad: 7692.2627
+
+Simulacion N: 41
+
+Liviano
+Tiempo de espera: 3.2518387 Tiempo de ociosidad: 8354.705
+Mediano
+Tiempo de espera: 2.4219892 Tiempo de ociosidad: 7980.749
+Pesado
+Tiempo de espera: 5.73904 Tiempo de ociosidad: 6360.459
+
+Simulacion N: 42
+
+Liviano
+Tiempo de espera: 2.8458498 Tiempo de ociosidad: 7781.5283
+Mediano
+Tiempo de espera: 2.3760717 Tiempo de ociosidad: 8280.201
+Pesado
+Tiempo de espera: 7.2079945 Tiempo de ociosidad: 7518.6987
+
+Simulacion N: 43
+
+Liviano
+Tiempo de espera: 2.443608 Tiempo de ociosidad: 7995.2583
+Mediano
+Tiempo de espera: 4.1231737 Tiempo de ociosidad: 8053.585
+Pesado
+Tiempo de espera: 5.4100213 Tiempo de ociosidad: 8329.923
+
+Simulacion N: 44
+
+Liviano
+Tiempo de espera: 1.8988398 Tiempo de ociosidad: 7689.9985
+Mediano
+Tiempo de espera: 2.5246522 Tiempo de ociosidad: 8390.196
+Pesado
+Tiempo de espera: 7.061345 Tiempo de ociosidad: 8231.3955
+
+Simulacion N: 45
+
+Liviano
+Tiempo de espera: 3.206835 Tiempo de ociosidad: 7898.8945
+Mediano
+Tiempo de espera: 4.3415 Tiempo de ociosidad: 7983.633
+Pesado
+Tiempo de espera: 7.349101 Tiempo de ociosidad: 6959.559
+
+Simulacion N: 46
+
+Liviano
+Tiempo de espera: 3.1298203 Tiempo de ociosidad: 8186.086
+Mediano
+Tiempo de espera: 0.67579466 Tiempo de ociosidad: 8624.658
+Pesado
+Tiempo de espera: 5.7955995 Tiempo de ociosidad: 7457.1543
+
+Simulacion N: 47
+
+Liviano
+Tiempo de espera: 1.836856 Tiempo de ociosidad: 7775.0244
+Mediano
+Tiempo de espera: 0.7400511 Tiempo de ociosidad: 8641.475
+Pesado
+Tiempo de espera: 8.027811 Tiempo de ociosidad: 7196.2896
+
+Simulacion N: 48
+
+Liviano
+Tiempo de espera: 2.9746525 Tiempo de ociosidad: 8334.822
+Mediano
+Tiempo de espera: 2.4307582 Tiempo de ociosidad: 8422.3
+Pesado
+Tiempo de espera: 6.735835 Tiempo de ociosidad: 8621.363
+
+Simulacion N: 49
+
+Liviano
+Tiempo de espera: 2.0487738 Tiempo de ociosidad: 7973.872
+Mediano
+Tiempo de espera: 0.71079504 Tiempo de ociosidad: 8536.449
+Pesado
+Tiempo de espera: 6.7929897 Tiempo de ociosidad: 8461.414
+
+Simulacion N: 50
+
+Liviano
+Tiempo de espera: 3.5022545 Tiempo de ociosidad: 7826.0605
+Mediano
+Tiempo de espera: 2.5299258 Tiempo de ociosidad: 8204.196
+Pesado
+Tiempo de espera: 6.186353 Tiempo de ociosidad: 8840.535
+
+Simulacion N: 51
+
+Liviano
+Tiempo de espera: 4.307814 Tiempo de ociosidad: 8821.943
+Mediano
+Tiempo de espera: 0.73497313 Tiempo de ociosidad: 8602.926
+Pesado
+Tiempo de espera: 5.6837554 Tiempo de ociosidad: 8106.5117
+
+Simulacion N: 2
+
+Liviano
+Tiempo de espera: 2.2969549 Tiempo de ociosidad: 8386.33
+Mediano
+Tiempo de espera: 2.4500673 Tiempo de ociosidad: 8427.47
+Pesado
+Tiempo de espera: 5.5215893 Tiempo de ociosidad: 6339.061
+
+Simulacion N: 3
+
+Liviano
+Tiempo de espera: 3.3580382 Tiempo de ociosidad: 8196.291
+Mediano
+Tiempo de espera: 2.4901938 Tiempo de ociosidad: 8050.4346
+Pesado
+Tiempo de espera: 6.6774664 Tiempo de ociosidad: 6951.9526
+
+Simulacion N: 4
+
+Liviano
+Tiempo de espera: 4.012417 Tiempo de ociosidad: 8152.985
+Mediano
+Tiempo de espera: 2.3538938 Tiempo de ociosidad: 8372.885
+Pesado
+Tiempo de espera: 6.498475 Tiempo de ociosidad: 8874.811
+
+Simulacion N: 5
+
+Liviano
+Tiempo de espera: 1.417652 Tiempo de ociosidad: 7564.089
+Mediano
+Tiempo de espera: 2.4872065 Tiempo de ociosidad: 8208.277
+Pesado
+Tiempo de espera: 6.428944 Tiempo de ociosidad: 8075.0415
+
+Simulacion N: 6
+
+Liviano
+Tiempo de espera: 2.6259215 Tiempo de ociosidad: 7184.7485
+Mediano
+Tiempo de espera: 2.5464287 Tiempo de ociosidad: 8306.474
+Pesado
+Tiempo de espera: 8.999946 Tiempo de ociosidad: 8022.5977
+
+Simulacion N: 7
+
+Liviano
+Tiempo de espera: 2.7489219 Tiempo de ociosidad: 7934.6724
+Mediano
+Tiempo de espera: 2.753263 Tiempo de ociosidad: 8118.5454
+Pesado
+Tiempo de espera: 7.3967104 Tiempo de ociosidad: 6953.508
+
+Simulacion N: 8
+
+Liviano
+Tiempo de espera: 1.7283767 Tiempo de ociosidad: 7759.595
+Mediano
+Tiempo de espera: 0.65292984 Tiempo de ociosidad: 8584.641
+Pesado
+Tiempo de espera: 5.8282175 Tiempo de ociosidad: 6685.8413
+
+Simulacion N: 9
+
+Liviano
+Tiempo de espera: 2.6889563 Tiempo de ociosidad: 8580.355
+Mediano
+Tiempo de espera: 2.4384656 Tiempo de ociosidad: 8424.813
+Pesado
+Tiempo de espera: 7.6094093 Tiempo de ociosidad: 7105.1436
+
+Simulacion N: 10
+
+Liviano
+Tiempo de espera: 1.5995513 Tiempo de ociosidad: 7864.724
+Mediano
+Tiempo de espera: 4.3321214 Tiempo de ociosidad: 8056.542
+Pesado
+Tiempo de espera: 7.798101 Tiempo de ociosidad: 8107.941
+
+Simulacion N: 11
+
+Liviano
+Tiempo de espera: 3.558651 Tiempo de ociosidad: 8191.8135
+Mediano
+Tiempo de espera: 2.4157379 Tiempo de ociosidad: 8381.855
+Pesado
+Tiempo de espera: 6.2809796 Tiempo de ociosidad: 8429.826
+
+Simulacion N: 12
+
+Liviano
+Tiempo de espera: 2.5293477 Tiempo de ociosidad: 8147.7373
+Mediano
+Tiempo de espera: 2.523885 Tiempo de ociosidad: 8284.075
+Pesado
+Tiempo de espera: 8.309618 Tiempo de ociosidad: 6141.4897
+
+Simulacion N: 13
+
+Liviano
+Tiempo de espera: 2.386486 Tiempo de ociosidad: 7852.8984
+Mediano
+Tiempo de espera: 0.6729937 Tiempo de ociosidad: 8598.115
+Pesado
+Tiempo de espera: 6.7472725 Tiempo de ociosidad: 7696.11
+
+Simulacion N: 14
+
+Liviano
+Tiempo de espera: 3.6676824 Tiempo de ociosidad: 8274.955
+Mediano
+Tiempo de espera: 2.5447323 Tiempo de ociosidad: 8209.664
+Pesado
+Tiempo de espera: 6.851426 Tiempo de ociosidad: 8217.066
+
+Simulacion N: 15
+
+Liviano
+Tiempo de espera: 1.4534942 Tiempo de ociosidad: 7568.1206
+Mediano
+Tiempo de espera: 2.4818532 Tiempo de ociosidad: 8206.229
+Pesado
+Tiempo de espera: 7.641851 Tiempo de ociosidad: 6696.2104
+
+Simulacion N: 16
+
+Liviano
+Tiempo de espera: 2.8025224 Tiempo de ociosidad: 7706.137
+Mediano
+Tiempo de espera: 2.4919963 Tiempo de ociosidad: 8191.9854
+Pesado
+Tiempo de espera: 6.6227913 Tiempo de ociosidad: 7043.552
+
+Simulacion N: 17
+
+Liviano
+Tiempo de espera: 3.6907525 Tiempo de ociosidad: 8411.627
+Mediano
+Tiempo de espera: 2.505001 Tiempo de ociosidad: 8390.954
+Pesado
+Tiempo de espera: 7.4367766 Tiempo de ociosidad: 6566.3164
+
+Simulacion N: 18
+
+Liviano
+Tiempo de espera: 2.1837285 Tiempo de ociosidad: 7568.6104
+Mediano
+Tiempo de espera: 2.5411975 Tiempo de ociosidad: 8395.661
+Pesado
+Tiempo de espera: 6.546382 Tiempo de ociosidad: 6385.9717
+
+Simulacion N: 19
+
+Liviano
+Tiempo de espera: 2.8777318 Tiempo de ociosidad: 8114.027
+Mediano
+Tiempo de espera: 4.112307 Tiempo de ociosidad: 7805.1494
+Pesado
+Tiempo de espera: 7.648652 Tiempo de ociosidad: 6913.753
+
+Simulacion N: 20
+
+Liviano
+Tiempo de espera: 2.4644542 Tiempo de ociosidad: 7548.1724
+Mediano
+Tiempo de espera: 2.5294514 Tiempo de ociosidad: 8165.833
+Pesado
+Tiempo de espera: 6.650417 Tiempo de ociosidad: 7479.112
+
+Simulacion N: 21
+
+Liviano
+Tiempo de espera: 2.608539 Tiempo de ociosidad: 7537.692
+Mediano
+Tiempo de espera: 2.4642532 Tiempo de ociosidad: 8356.429
+Pesado
+Tiempo de espera: 6.901726 Tiempo de ociosidad: 7967.0947
+
+Simulacion N: 22
+
+Liviano
+Tiempo de espera: 1.8364389 Tiempo de ociosidad: 7396.3916
+Mediano
+Tiempo de espera: 2.4649081 Tiempo de ociosidad: 8425.277
+Pesado
+Tiempo de espera: 4.9073534 Tiempo de ociosidad: 6342.6562
+
+Simulacion N: 23
+
+Liviano
+Tiempo de espera: 2.945897 Tiempo de ociosidad: 8017.368
+Mediano
+Tiempo de espera: 2.4732373 Tiempo de ociosidad: 8152.927
+Pesado
+Tiempo de espera: 6.9805164 Tiempo de ociosidad: 8267.455
+
+Simulacion N: 24
+
+Liviano
+Tiempo de espera: 2.8168314 Tiempo de ociosidad: 7849.321
+Mediano
+Tiempo de espera: 2.4158008 Tiempo de ociosidad: 8360.471
+Pesado
+Tiempo de espera: 6.184099 Tiempo de ociosidad: 6795.8955
+
+Simulacion N: 25
+
+Liviano
+Tiempo de espera: 3.9349253 Tiempo de ociosidad: 8331.555
+Mediano
+Tiempo de espera: 2.5607238 Tiempo de ociosidad: 8438.391
+Pesado
+Tiempo de espera: 8.024124 Tiempo de ociosidad: 7850.4824
+
+Simulacion N: 26
+
+Liviano
+Tiempo de espera: 2.1098435 Tiempo de ociosidad: 7567.5396
+Mediano
+Tiempo de espera: 2.4966495 Tiempo de ociosidad: 8429.621
+Pesado
+Tiempo de espera: 7.938561 Tiempo de ociosidad: 8889.496
+
+Simulacion N: 27
+
+Liviano
+Tiempo de espera: 2.4480753 Tiempo de ociosidad: 8101.6196
+Mediano
+Tiempo de espera: 0.5984793 Tiempo de ociosidad: 8633.378
+Pesado
+Tiempo de espera: 7.2105136 Tiempo de ociosidad: 7037.903
+
+Simulacion N: 28
+
+Liviano
+Tiempo de espera: 2.4163537 Tiempo de ociosidad: 7702.9067
+Mediano
+Tiempo de espera: 2.5749693 Tiempo de ociosidad: 8427.351
+Pesado
+Tiempo de espera: 4.8273325 Tiempo de ociosidad: 6311.6084
+
+Simulacion N: 29
+
+Liviano
+Tiempo de espera: 2.6369178 Tiempo de ociosidad: 7825.188
+Mediano
+Tiempo de espera: 4.161554 Tiempo de ociosidad: 7667.4004
+Pesado
+Tiempo de espera: 6.9095373 Tiempo de ociosidad: 8300.6875
+
+Simulacion N: 30
+
+Liviano
+Tiempo de espera: 1.7145642 Tiempo de ociosidad: 7898.9897
+Mediano
+Tiempo de espera: 3.9790516 Tiempo de ociosidad: 7860.867
+Pesado
+Tiempo de espera: 7.175364 Tiempo de ociosidad: 6500.55
+
+Simulacion N: 31
+
+Liviano
+Tiempo de espera: 3.0259018 Tiempo de ociosidad: 8068.168
+Mediano
+Tiempo de espera: 2.1415286 Tiempo de ociosidad: 7517.449
+Pesado
+Tiempo de espera: 6.9434676 Tiempo de ociosidad: 7534.7964
+
+Simulacion N: 32
+
+Liviano
+Tiempo de espera: 2.544712 Tiempo de ociosidad: 8249.541
+Mediano
+Tiempo de espera: 0.7185852 Tiempo de ociosidad: 8508.747
+Pesado
+Tiempo de espera: 6.2119904 Tiempo de ociosidad: 7117.583
+
+Simulacion N: 33
+
+Liviano
+Tiempo de espera: 3.1276484 Tiempo de ociosidad: 7927.3315
+Mediano
+Tiempo de espera: 0.62188977 Tiempo de ociosidad: 8574.452
+Pesado
+Tiempo de espera: 5.554173 Tiempo de ociosidad: 7145.5845
+
+Simulacion N: 34
+
+Liviano
+Tiempo de espera: 3.1268997 Tiempo de ociosidad: 8193.875
+Mediano
+Tiempo de espera: 2.6717381 Tiempo de ociosidad: 8420.869
+Pesado
+Tiempo de espera: 7.7837024 Tiempo de ociosidad: 7447.6475
+
+Simulacion N: 35
+
+Liviano
+Tiempo de espera: 2.7415059 Tiempo de ociosidad: 7721.3623
+Mediano
+Tiempo de espera: 2.3820848 Tiempo de ociosidad: 8217.893
+Pesado
+Tiempo de espera: 8.722483 Tiempo de ociosidad: 6609.9883
+
+Simulacion N: 36
+
+Liviano
+Tiempo de espera: 2.7688003 Tiempo de ociosidad: 8115.2056
+Mediano
+Tiempo de espera: 4.11481 Tiempo de ociosidad: 7801.726
+Pesado
+Tiempo de espera: 7.2227097 Tiempo de ociosidad: 7172.5205
+
+Simulacion N: 37
+
+Liviano
+Tiempo de espera: 3.123055 Tiempo de ociosidad: 8143.149
+Mediano
+Tiempo de espera: 0.5689811 Tiempo de ociosidad: 8515.4
+Pesado
+Tiempo de espera: 7.569262 Tiempo de ociosidad: 6659.7793
+
+Simulacion N: 38
+
+Liviano
+Tiempo de espera: 2.9080806 Tiempo de ociosidad: 8866.166
+Mediano
+Tiempo de espera: 2.598657 Tiempo de ociosidad: 8486.645
+Pesado
+Tiempo de espera: 5.844242 Tiempo de ociosidad: 7685.508
+
+Simulacion N: 39
+
+Liviano
+Tiempo de espera: 2.5788102 Tiempo de ociosidad: 8031.1445
+Mediano
+Tiempo de espera: 2.4414725 Tiempo de ociosidad: 8424.463
+Pesado
+Tiempo de espera: 5.6772237 Tiempo de ociosidad: 6551.9653
+
+Simulacion N: 40
+
+Liviano
+Tiempo de espera: 3.9180825 Tiempo de ociosidad: 8179.824
+Mediano
+Tiempo de espera: 0.69732034 Tiempo de ociosidad: 8576.722
+Pesado
+Tiempo de espera: 5.214866 Tiempo de ociosidad: 8649.783
+
+Simulacion N: 41
+
+Liviano
+Tiempo de espera: 2.8752525 Tiempo de ociosidad: 8114.9126
+Mediano
+Tiempo de espera: 2.4564068 Tiempo de ociosidad: 8375.311
+Pesado
+Tiempo de espera: 7.92905 Tiempo de ociosidad: 7562.255
+
+Simulacion N: 42
+
+Liviano
+Tiempo de espera: 2.200758 Tiempo de ociosidad: 7989.0093
+Mediano
+Tiempo de espera: 2.3797646 Tiempo de ociosidad: 8455.222
+Pesado
+Tiempo de espera: 7.3512797 Tiempo de ociosidad: 6165.962
+
+Simulacion N: 43
+
+Liviano
+Tiempo de espera: 2.920233 Tiempo de ociosidad: 8010.0864
+Mediano
+Tiempo de espera: 2.4438086 Tiempo de ociosidad: 8237.058
+Pesado
+Tiempo de espera: 8.037053 Tiempo de ociosidad: 8335.673
+
+Simulacion N: 44
+
+Liviano
+Tiempo de espera: 2.73658 Tiempo de ociosidad: 8178.988
+Mediano
+Tiempo de espera: 0.72926915 Tiempo de ociosidad: 8599.062
+Pesado
+Tiempo de espera: 8.984107 Tiempo de ociosidad: 6500.7856
+
+Simulacion N: 45
+
+Liviano
+Tiempo de espera: 1.9554687 Tiempo de ociosidad: 7534.729
+Mediano
+Tiempo de espera: 2.4144318 Tiempo de ociosidad: 7964.583
+Pesado
+Tiempo de espera: 6.4424095 Tiempo de ociosidad: 6797.515
+
+Simulacion N: 46
+
+Liviano
+Tiempo de espera: 2.9499307 Tiempo de ociosidad: 8060.3965
+Mediano
+Tiempo de espera: 2.5544906 Tiempo de ociosidad: 8422.511
+Pesado
+Tiempo de espera: 6.943854 Tiempo de ociosidad: 6660.37
+
+Simulacion N: 47
+
+Liviano
+Tiempo de espera: 3.1932082 Tiempo de ociosidad: 7797.0625
+Mediano
+Tiempo de espera: 2.5712104 Tiempo de ociosidad: 8235.832
+Pesado
+Tiempo de espera: 6.6342955 Tiempo de ociosidad: 7595.661
+
+Simulacion N: 48
+
+Liviano
+Tiempo de espera: 3.121969 Tiempo de ociosidad: 8299.02
+Mediano
+Tiempo de espera: 2.4164495 Tiempo de ociosidad: 8251.032
+Pesado
+Tiempo de espera: 7.040451 Tiempo de ociosidad: 7385.9214
+
+Simulacion N: 49
+
+Liviano
+Tiempo de espera: 2.9985814 Tiempo de ociosidad: 7950.4307
+Mediano
+Tiempo de espera: 2.580521 Tiempo de ociosidad: 8104.543
+Pesado
+Tiempo de espera: 6.1195893 Tiempo de ociosidad: 7132.266
+
+Simulacion N: 50
+
+Liviano
+Tiempo de espera: 2.188407 Tiempo de ociosidad: 8007.683
+Mediano
+Tiempo de espera: 0.5546698 Tiempo de ociosidad: 8567.162
+Pesado
+Tiempo de espera: 6.592761 Tiempo de ociosidad: 8529.278
+
+Simulacion N: 51
+
+Liviano
+Tiempo de espera: 2.719877 Tiempo de ociosidad: 8465.38
+Mediano
+Tiempo de espera: 2.5684824 Tiempo de ociosidad: 8203.525
+Pesado
+Tiempo de espera: 6.0517826 Tiempo de ociosidad: 6241.426
